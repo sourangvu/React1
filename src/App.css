@@ -1,0 +1,14 @@
+.product.image{
+  height: 250px;
+  object-fit: contain;
+}
+.product.title{
+  height: 50px;
+  overflow: hidden;
+}
+.product.description{
+  height: 100px;
+  overflow: hidden;
+}
+
+
